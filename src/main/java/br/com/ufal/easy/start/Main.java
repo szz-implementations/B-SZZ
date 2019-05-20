@@ -14,11 +14,11 @@ public class Main {
     public static String bugPath = "/Users/bugs/";
 
     //Local path to the .json output file
-    public static String output = "/Users/output.json";
+    public static String outputPath = "/Users/output.json";
 
     public static void main(String[] args) {
 
-        App.run(repositoryPath, bugPath, output);
+        App.run(repositoryPath, bugPath, outputPath);
 
     }
 
