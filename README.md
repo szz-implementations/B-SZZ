@@ -2,7 +2,8 @@
 This repository contains the algorithm implementation described in [When Do Changes Induces Fixes?](https://www.st.cs.uni-saarland.de/papers/msr2005/msr2005.pdf) by Sliwerski et al.
 
 ### Particulars
-Datails about this code, can be found in the work [??]()
+- Details about this code, can be found in the work [Reproduzindo Algoritmos para Detecção de Pontos
+de Inserção de Bugs](https://drive.google.com/file/d/1fAZAJDNPCYtj8lZmgSpNhys_ZT-w242y/view?usp=sharing)
 
 ### Example
 - Clone the [glide](https://github.com/bumptech/glide) project
